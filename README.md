@@ -6,5 +6,5 @@ I'm a graduate student in counseling and a small youtuber.
 I like comics, visual novels, games, cartoons and anime, and all things nerdy. 
 While I like counseling, it's always been my goal to do something creative in my career and to 
 create things like games, videos, and more for people to enjoy. 
-I hope I can learn a lot from GitHub and other resources to beging programming 
+I hope I can learn a lot from GitHub and other resources to begin programming 
 and understanding problem solving in a computational manner. 
