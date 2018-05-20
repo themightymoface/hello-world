@@ -8,3 +8,4 @@ While I like counseling, it's always been my goal to do something creative in my
 create things like games, videos, and more for people to enjoy. 
 I hope I can learn a lot from GitHub and other resources to begin programming 
 and understanding problem solving in a computational manner. 
+Figuring out a way to combine my counseling knowledge and programming would be ideal. 
